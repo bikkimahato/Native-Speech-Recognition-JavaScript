@@ -10,7 +10,7 @@
   "author": "Bikki Mahato",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.12.5 <2.23.2"
+    "browser-sync": "^2.26.7"
   },
   "dependencies": {
     "gh-pages": "^2.2.0"
